@@ -2,9 +2,17 @@
 
 ## How do I install these formulae?
 
-`brew install amadeusk525/brews/<formula>`
+```shell
+brew extract --version <version> <formula> AmadeusK525/Brews
+brew install <formula>@<version>
+```
 
-Or `brew tap amadeusk525/brews` and then `brew install <formula>`.
+Example:
+
+```shell
+brew extract --version 0.47.1 swiftlint AmadeusK525/Brews
+brew install swiftlint@0.47.1
+```
 
 ## Documentation
 
