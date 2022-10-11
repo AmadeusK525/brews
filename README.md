@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install amadeusk525/swiftgen/<formula>`
+`brew install amadeusk525/brews/<formula>`
 
-Or `brew tap amadeusk525/swiftgen` and then `brew install <formula>`.
+Or `brew tap amadeusk525/brews` and then `brew install <formula>`.
 
 ## Documentation
 
